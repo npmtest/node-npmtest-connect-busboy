@@ -1,4 +1,7 @@
-# test coverage for  [connect-busboy (v0.0.2)](https://github.com/mscdex/connect-busboy)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-busboy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-busboy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-busboy.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-busboy)
+# npmtest-connect-busboy
+
+#### basic test coverage for  [connect-busboy (v0.0.2)](https://github.com/mscdex/connect-busboy)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-busboy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-busboy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-busboy.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-busboy)
+
 #### Connect middleware for busboy
 
 [![NPM](https://nodei.co/npm/connect-busboy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/connect-busboy)
